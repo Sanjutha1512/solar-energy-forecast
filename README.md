@@ -6,21 +6,6 @@ Data Link: https://www.kaggle.com/competitions/ams-2014-solar-energy-prediction-
 Personal Project Link (this project can be accessed from this Google Drive folder): 
 https://drive.google.com/drive/folders/1_b9kf_kE8bZVDMWuSKTNlsDFbTwB6ziI?usp=sharing
 
-All the details of setup and required installations are made within the project files
-'''
-AI_Sustainaibility
-│
-├── data/                   # Folder with the unzipped dataset, to store all analysis ready data            
-│
-├── notebooks/              # Jupyter notebooks for exploration and analysis
-│
-├── models/                 # Folder with model checkpoints saved
-|       |__lstm/
-|       |__stgcn/
-|
-└── README.md               #File with details of project
-'''
-
 Contents of each folder:
 
 notebooks/
